@@ -41,10 +41,8 @@ Na Argus Corps, desenvolvi projetos em duas frentes principais: **Argus Guard**,
     </td>
   </tr>
   <tr>
-    <td align="center" valign="middle">
-      <h2>ARGUS <code>BOTS</code></h2>
-      <p><strong>Automação • Discord • Comunidades</strong></p>
-      <p>────────── ◈ ──────────</p>
+    <td width="56%" align="center" valign="middle">
+      <img src="argus-guard-logo.png" alt="Logotipo Argus Guard" width="100%" />
     </td>
     <td valign="middle">
       <h3>🤖 ARGUS BOTS</h3>
