@@ -55,13 +55,26 @@ Na Argus Corps, desenvolvi projetos em duas frentes principais: **Argus Guard**,
 
 ### `> stack & ecossistema`
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Lua-111418?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
-  <img src="https://img.shields.io/badge/JavaScript-111418?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-111418?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Discord-111418?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord" />
-  <img src="https://img.shields.io/badge/FiveM-111418?style=for-the-badge&logo=fivem&logoColor=F9A03C" alt="FiveM" />
-  <img src="https://img.shields.io/badge/Git-111418?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
 <br />
