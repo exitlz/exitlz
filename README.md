@@ -6,9 +6,6 @@
 -->
 
 <div align="center">
-  <img src="argus-emblem.png" alt="Emblema Argus" width="118" />
-
-  <h1>EXIT <sub> / LUIZ</sub></h1>
 
   <p><strong>SOFTWARE DEVELOPER &nbsp;·&nbsp; ARGUS CORPS</strong></p>
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2600&pause=1100&color=D4B15F&center=true&vCenter=true&width=520&lines=Building+secure+digital+experiences;ARGUS+GUARD+%E2%80%A2+ARGUS+BOTS;Build.+Secure.+Automate." alt="Build. Secure. Automate." />
