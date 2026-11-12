@@ -42,7 +42,7 @@ Na Argus Corps, desenvolvi projetos em duas frentes principais: **Argus Guard**,
   </tr>
   <tr>
     <td width="56%" align="center" valign="middle">
-      <img src="argus-guard-logo.png" alt="Logotipo Argus Guard" width="100%" />
+      <img src="argus-emblem.png" alt="Logotipo Argus Guard" width="100%" />
     </td>
     <td valign="middle">
       <h3>🤖 ARGUS BOTS</h3>
