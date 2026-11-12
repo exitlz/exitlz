@@ -22,18 +22,9 @@
 
 ### `> sobre mim`
 
-Sou **Luiz**, também conhecido como **Exit**, desenvolvedor da **Argus Corps**. Meu trabalho é transformar ideias em soluções digitais, com atenção à **segurança**, à **automação** e à **experiência de quem utiliza o produto**.
+Sou **Exit**, desenvolvedor da **Argus Corps**. Meu trabalho é transformar ideias em soluções digitais, com atenção à **segurança**, à **automação** e à **experiência de quem utiliza o produto**.
 
 Na Argus Corps, desenvolvi projetos em duas frentes principais: **Argus Guard**, voltado à proteção de servidores FiveM, e **Argus Bots**, dedicado a bots e automações para comunidades do Discord.
-
-```text
-exit@arguscorps:~$ cat profile.txt
-NAME       Luiz / Exit
-ROLE       Software Developer
-COMPANY    Argus Corps
-PROJECTS   Argus Guard · Argus Bots
-FOCUS      Security · Automation · Development
-```
 
 ### `> projetos desenvolvidos`
 
